@@ -38,3 +38,7 @@ Release note :
 - Beberapa bug masih ditemukan.
 - Pemberkasan file yang masih belum  maksimal
 - Penggunaan Live CD
+
+keterangan :
+laporan Remastering.pdf (tertera)
+
